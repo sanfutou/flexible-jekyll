@@ -10,9 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: myz # add your name
+author: 毛拥政 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: GitHub、jekyll。 # add description
+about-author: GitHub、jekyll真不错，使非专业的我，也可以自己编博客分享一些心得。 # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: sanfutou # add your Github handle
