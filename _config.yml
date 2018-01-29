@@ -10,14 +10,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: 毛拥政 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: GitHub、jekyll真不错，使非专业的我，也可以自己编博客分享一些心得。 # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
+github: sanfutou # add your Github handle
 linkedin: # add your Linkedin handle
-email: # add your Email address
+email:723478279@qq.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
