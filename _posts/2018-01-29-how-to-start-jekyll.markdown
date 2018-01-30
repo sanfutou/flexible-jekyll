@@ -50,7 +50,7 @@ tags: [Programming, Learn] # add tag
 >　　　`<title>{{ page.title }}</title>`  
 >　　`</head>`  
 >　　`<body>`  
->　　`{{ content }}`  
+>　　`{{con tent}}`  
 >　　`</body>`  
 >　　`</html>`
 
