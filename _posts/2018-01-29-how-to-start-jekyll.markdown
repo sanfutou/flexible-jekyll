@@ -50,11 +50,11 @@ tags: [Programming, Learn] # add tag
 >　　　`<title>{{ page.title }}</title>`  
 >　　`</head>`  
 >　　`<body>`  
->　　`{{content}}`  
+>　　`{{c o n t e n t}}`  
 >　　`</body>`  
 >　　`</html>`
 
-Jekyll使用Liquid模板语言，`{{page.title}}`表示文章标题，`{{con tent}}`表示文章内容，更多模板变量请参考官方文档。
+Jekyll使用Liquid模板语言，`{{page.title}}`表示文章标题，`{{c o n t e n t}}`表示文章内容，更多模板变量请参考官方文档。
 目录结构变成：
 ```
 >　　/jekyll_demo  
