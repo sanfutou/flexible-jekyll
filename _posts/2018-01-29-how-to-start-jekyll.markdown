@@ -4,7 +4,7 @@ title: How To Start Jekyll
 date: 2018-01-29 22:10:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
-tags: [blog, jekyll， Learn] # add tag
+tags: [blog， jekyll， Learn] # add tag
 ---
 
 # 第一步，创建项目。 #
