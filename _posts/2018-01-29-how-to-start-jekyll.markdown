@@ -41,7 +41,7 @@ tags: [blog， jekyll， Learn] # add tag
 
 　　$ mkdir _layouts
 
-进入该目录，创建一个default.html文件，作为Blog的默认模板。并在该文件中填入以下内容。
+进入该目录，创建一个default.html文件，作为Blog的默认模板。并在该文件中填入以下内容。  
 ```
 >　　`<!DOCTYPE html>`  
 >　　`<html>`  
