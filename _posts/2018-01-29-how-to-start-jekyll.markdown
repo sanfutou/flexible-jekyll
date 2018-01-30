@@ -37,3 +37,36 @@ tags: [Programming, Learn] # add tag
 
 # 第三步，创建模板文件。 #
 
+在项目根目录下，创建一个_layouts目录，用于存放模板文件。
+
+　　$ mkdir _layouts
+
+进入该目录，创建一个default.html文件，作为Blog的默认模板。并在该文件中填入以下内容。
+
+　　`<!DOCTYPE html>`
+　　`<html>`
+　　`<head>`
+　　　　`<meta http-equiv="content-type" content="text/html; charset=utf-8" />`
+　　　　`<title>{{ page.title }}</title>`
+　　`</head>`
+　　`<body>`
+`　　　　{{ content }}`
+`　　</body>`
+　`　</html>`
+
+Jekyll使用Liquid模板语言，{{ page.title }}表示文章标题，{{ content }}表示文章内容，更多模板变量请参考官方文档。
+目录结构变成：
+
+　　/jekyll_demo
+　　　　|--　_config.yml
+　　　　|--　_layouts
+　　　　|　　　|--　default.html
+
+# 第四步，创建文章。 #
+
+回到项目根目录，创建一个_posts目录，用于存放blog文章。
+
+　　$ mkdir _posts
+
+进入该目录，创建第一篇文章。文章就是普通的文本文件，文件名假定为2012-08-25-hello-world.html。(注意，文件名必须为"年-月-日-文章标题.后缀名"的格式。如果网页代码采用html格式，后缀名为html；如果采用markdown格式，后缀名为md。）
+在该文件中，填入以下内容：（注意，行首不能有空格）
