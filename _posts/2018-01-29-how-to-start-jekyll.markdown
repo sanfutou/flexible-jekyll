@@ -54,7 +54,7 @@ tags: [Programming, Learn] # add tag
 `　　</body>`
 　`　</html>`
 
-Jekyll使用Liquid模板语言，{{ page.title }}表示文章标题，{{ content }}表示文章内容，更多模板变量请参考官方文档。
+Jekyll使用Liquid模板语言，`{{ page.title }}`表示文章标题，`{{ content }}`表示文章内容，更多模板变量请参考官方文档。
 目录结构变成：
 
 　　/jekyll_demo
