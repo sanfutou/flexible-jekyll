@@ -6,4 +6,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: DSC_0403_1.jpg # Add image post (optional)
 tags: [photo, share] # add tag
 ---
-![开始](http://github.com/sanfutou/zhaopian/blob/master/zipai/2018年1月31日/DSC_0369.JPG)
+![](http://github.com/sanfutou/zhaopian/blob/master/zipai/2018-01-31-yue-shi/DSC_0375.JPG)
