@@ -3,23 +3,33 @@ layout: post
 title: 西安美食
 date: 2018-02-01 22:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: DSC_0403_1.jpg # Add image post (optional)
+img: we-in-rest.jpg # Add image post (optional)
 tags: [food, share] # add tag
 ---
+
+
 
 泡馍：广济街老刘家还是很好的，只是搬到回民巷里面后不太好找  
 小炒：大皮院“邬家小炒”专做小炒。不喜欢的酸的可让少放醋  
 烤肉：安西街“老肥烤肉”，挺好就是不知道为什么经常不开门  
 米线：兴善寺东街的“龙记桂林米粉”，辣酱很有特色，很辣  
 葫芦头：太乙路十字路口的：方记葫芦头，味道正，没怪味  
+
+
+
+  
  
-建设路与文艺路丁字路口处有一家“小杨烤肉”味道不错，24小时营业，人多很，不好停车
+建设路与文艺路丁字路口处有一家“小杨烤肉”味道不错，24小时营业，人多很，不好停车  
+
  
  
 自强东路与建强路钉子口老魏家泡馍，绝对比老孙家强百倍，经过旅游界多方人士品尝认识过的  
+  
 
-好多地方俺都不知道
+好多地方俺都不知道  
 不过，俺也凑一下热闹，南稍门口的----建基羊肉泡馍不错
+
+
  
 卤汁凉粉，在大皮院和北广济街丁字路口。很多年了，卤汁凉粉我支持这一家。店名从来也没有看过。
  
