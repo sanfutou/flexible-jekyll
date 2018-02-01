@@ -6,4 +6,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: DSC_0403_1.jpg # Add image post (optional)
 tags: [photo, share] # add tag
 ---
-![](http://github.com/sanfutou/zhaopian/blob/master/zipai/2018-01-31-yue-shi/DSC_0375.JPG)
+
+![]({{site.baseurl}}/assets/img/IMG_2219.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2221.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2223.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2224.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2225.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2226.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2229.JPG)
