@@ -11,7 +11,9 @@ tags: [blog, jekyll, Learn] # add tag
 
 在你的电脑上，建立一个目录，作为项目的主目录。我们假定，它的名称为jekyll_demo。
 
-　　$ mkdir jekyll_demo
+　　$ mkdir jekyll_demo  
+
+注：$代表在git bash下的提示符。
 
 对该目录进行git初始化。
 
