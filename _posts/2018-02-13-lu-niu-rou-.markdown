@@ -1,0 +1,16 @@
+---
+layout: post
+title: 卤牛肉
+date: 2018-02-13 07:27:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: how-to-start.jpg # Add image post (optional)
+tags: [food, Learn] # add tag
+---
+
+1、冷水浸泡30分钟，清洗干净，切成大块备用。
+
+2、冷水入锅加热水开后撇去浮沫，拿水冲洗，冰水浸泡30分钟。
+
+3、入锅加大料、花椒、草果、橘皮、香叶、桂皮、干辣椒，加入料酒和冰糖，姜片和大葱大火烧开炖15分钟，转小火炖100分钟。
+
+4、等炖好后自然冷却。
