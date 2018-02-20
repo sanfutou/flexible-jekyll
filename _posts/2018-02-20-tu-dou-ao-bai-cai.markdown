@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 土豆熬白菜
-date: 2018-02-20 10:270:00 +0300
+date: 2018-02-20 10:27:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 tags: [food, learning] # add tag
