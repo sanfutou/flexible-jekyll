@@ -127,6 +127,8 @@ Jekyll使用Liquid模板语言，`{{page.title}}`(单引号内为双层大括号
 fatal: remote origin already exists.
 
 先输入$ git remote rm origin  
-再输入$ git remote add origin https://github.com/username/flexible-jekyll.git
+再输入$ git remote add origin https://github.com/username/flexible-jekyll.git  
+
+![]({{site.baseurl}}/assets/img/20180129202124.png)
 
 成功建立了我的第一个jeyll博客。
