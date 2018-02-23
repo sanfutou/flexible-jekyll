@@ -66,4 +66,6 @@ $ git remote -v
 
 
 $ git push origin master  
+  
+进行了试用，但是最后一步时上传不成功。似乎与网络的状态有关。  
 
