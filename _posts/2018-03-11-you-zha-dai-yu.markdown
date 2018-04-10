@@ -42,7 +42,8 @@ tags: [food, Learn] # add tag
 
 ![]({{site.baseurl}}/assets/img/IMG_2326.jpg) 
  
-![]({{site.baseurl}}/assets/img/IMG_2229.jpg) 
+![]({{site.baseurl}}/assets/img/IMG_2229.JPG) 
+![]({{site.baseurl}}/assets/img/IMG_2219.JPG)
 
 #步骤二：炸带鱼  
 
