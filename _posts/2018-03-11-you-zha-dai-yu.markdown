@@ -20,7 +20,7 @@ tags: [food, Learn] # add tag
 
 最后多清洗两遍，将干净的带鱼放入一个器皿中。  
 
-![]({{site.baseurl}}/assets/img/7C23171B317CF5B49D9AB3F795C3DFA7.jpg)
+![]({{site.baseurl}}/assets/img/7C23171B317CF5B49D9AB3F795C3DFA7.JPG)
 
 ##腌制带鱼，去腥的关键。  
 
@@ -40,10 +40,8 @@ tags: [food, Learn] # add tag
 
 将鸡蛋1个、面粉3汤匙，香甜泡打粉半茶匙，白糖1/4茶匙，盐1/4茶匙，五香粉1/4茶匙，加入一些水搅拌成面糊（炸一盘子，我这个量有点大了）。  
 
-![]({{site.baseurl}}/assets/img/IMG_2326.jpg) 
- 
-![]({{site.baseurl}}/assets/img/IMG_2229.JPG) 
-![]({{site.baseurl}}/assets/img/IMG_2219.JPG)
+![]({{site.baseurl}}/assets/img/IMG_2326.JPG) 
+
 
 #步骤二：炸带鱼  
 
@@ -60,7 +58,7 @@ tags: [food, Learn] # add tag
 
 提前垫好吸油的厨房用纸，吸取多余的油脂。  
 
-![]({{site.baseurl}}/assets/img/IMG_2327.jpg)  
+![]({{site.baseurl}}/assets/img/IMG_2327.JPG)  
 
 
 #步骤三：盛盘  
