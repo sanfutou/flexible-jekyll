@@ -3,7 +3,7 @@ layout: post
 title: 油炸带鱼
 date: 2018-03-11 20:47:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: IMG_2328.JPG # Add image post (optional)
+img: mac.JPG # Add image post (optional)
 tags: [food, Learn] # add tag
 ---
 #步骤一：准备阶段  
